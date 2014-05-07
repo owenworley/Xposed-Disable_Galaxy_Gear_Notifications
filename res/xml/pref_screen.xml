@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:summaryOff="@string/pref_enable_log_on" android:summaryOn="@string/pref_enable_log_on" android:defaultValue="false" android:key="log_enabled"/><CheckBoxPreference android:summaryOff="@string/pref_disable_autofocus" android:summaryOn="@string/pref_disable_autofocus" android:defaultValue="true" android:key="autofocus_sound_disabled"/>
+    
+    
+
+</PreferenceScreen>
