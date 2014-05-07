@@ -4,5 +4,5 @@
 
     <string name="pref_enable_log_on">Enable Debug Log</string>
 
-    <string name="pref_disable_autofocus">Disable Autofocus Sounds</string>
+    <string name="pref_disable_gear_notif">Disable Ongoing Gear Notifications</string>
 </resources>

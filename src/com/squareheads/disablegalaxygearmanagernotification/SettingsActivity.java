@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class SettingsActivity extends Activity {
 	public static final String Pref_Log_Enabled = "log_enabled";
-	public static final String Pref_Disable_Sound_Autofocus = "autofocus_sound_disabled";
+	public static final String Pref_Disable_Ongoing_Notification = "pref_disable_gear_notif";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
