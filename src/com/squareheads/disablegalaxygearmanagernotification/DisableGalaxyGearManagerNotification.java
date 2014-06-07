@@ -39,7 +39,7 @@ public class DisableGalaxyGearManagerNotification implements IXposedHookZygoteIn
 	public void initZygote(StartupParam startupParam) throws Throwable {
 		//Initialise the prefs object
 		pref = new XSharedPreferences(MY_PACKAGE_NAME);
-		
+		//pref.registerOnSharedPreferenceChangeListener(this);
 		
 		logEnabled = optionEnabled(SettingsActivity.Pref_Log_Enabled, false);
 		//If we are hiding all hostmanager notifications
