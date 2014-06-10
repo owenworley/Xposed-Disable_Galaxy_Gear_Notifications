@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <Preference android:title="Reboot device to apply settings" android:selectable="false"/><CheckBoxPreference android:summaryOff="@string/pref_enable_log_on" android:summaryOn="@string/pref_enable_log_on" android:defaultValue="false" android:key="log_enabled"/><CheckBoxPreference android:summaryOff="@string/pref_disable_gear_notif" android:summaryOn="@string/pref_disable_gear_notif" android:defaultValue="true" android:key="pref_disable_gear_notif"/>
+    
+    
+    
+
+</PreferenceScreen>
