@@ -5,6 +5,8 @@ Xposed module to hide the Galaxy Gear ongoing notification
 
 Import into eclipse and link with 'XposedBridgeApi.jar'. For details, see https://github.com/rovo89/XposedBridge/wiki/Development-tutorial
 
+### Looking for a maintainer
+I no longer have time to work on this, so if you want to take over this project then drop me a message.
 
 ### Supported devices
 This module has been tested on the following Galaxy Gear watches:
